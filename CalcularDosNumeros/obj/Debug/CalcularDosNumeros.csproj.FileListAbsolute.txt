@@ -1,0 +1,10 @@
+E:\Proyecto_CSharp\CalcularDosNumeros\CalcularDosNumeros\bin\Debug\CalcularDosNumeros.exe.config
+E:\Proyecto_CSharp\CalcularDosNumeros\CalcularDosNumeros\bin\Debug\CalcularDosNumeros.exe
+E:\Proyecto_CSharp\CalcularDosNumeros\CalcularDosNumeros\bin\Debug\CalcularDosNumeros.pdb
+E:\Proyecto_CSharp\CalcularDosNumeros\CalcularDosNumeros\obj\Debug\CalcularDosNumeros.csprojAssemblyReference.cache
+E:\Proyecto_CSharp\CalcularDosNumeros\CalcularDosNumeros\obj\Debug\CalcularDosNumeros.Form1.resources
+E:\Proyecto_CSharp\CalcularDosNumeros\CalcularDosNumeros\obj\Debug\CalcularDosNumeros.Properties.Resources.resources
+E:\Proyecto_CSharp\CalcularDosNumeros\CalcularDosNumeros\obj\Debug\CalcularDosNumeros.csproj.GenerateResource.cache
+E:\Proyecto_CSharp\CalcularDosNumeros\CalcularDosNumeros\obj\Debug\CalcularDosNumeros.csproj.CoreCompileInputs.cache
+E:\Proyecto_CSharp\CalcularDosNumeros\CalcularDosNumeros\obj\Debug\CalcularDosNumeros.exe
+E:\Proyecto_CSharp\CalcularDosNumeros\CalcularDosNumeros\obj\Debug\CalcularDosNumeros.pdb
